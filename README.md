@@ -4,7 +4,12 @@
 
 一度こちらにコードを上げていたのですが、手違いでリポジトリがコードもろとも消えてしまいました。
 
-pdfファイルに実装したアルゴリズムの概要をまとめてあります。
+## ディレクトリ構成
+
+        * Outputs : 与えられた問題例に対してその解を示したテキストファイルです。
+        * ROADEF_Challenge_2020_J38_Abstract.pdf : アルゴリズムの概要をまとめたものです。
+        * ROADEF_Challenge_2020_J38_Result_Table.pdf : 計算実験の結果をまとめた表です。
+        * exec.out : 実行可能ファイルです。
 
 ## 解いた問題について
 * [RTE](https://en.wikipedia.org/wiki/R%C3%A9seau_de_Transport_d%27%C3%89lectricit%C3%A9#:~:text=R%C3%A9seau%20de%20Transport%20d'%C3%89lectricit%C3%A9%20(Electricity%20Transmission%20Network)%2C,transmission%20system%20operator%20of%20France.&text=RTE%20is%20a%20wholly%20owned,EDF\)%2C%20headquartered%20in%20Paris.)というフランスの送電線網における、送電線の修理・点検を行うためのスケジュールを構築するという問題です。

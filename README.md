@@ -7,7 +7,7 @@
 pdfファイルに実装したアルゴリズムの概要をまとめてあります。
 
 ## 解いた問題について
-[RTE](https://en.wikipedia.org/wiki/R%C3%A9seau_de_Transport_d%27%C3%89lectricit%C3%A9#:~:text=R%C3%A9seau%20de%20Transport%20d'%C3%89lectricit%C3%A9%20(Electricity%20Transmission%20Network)%2C,transmission%20system%20operator%20of%20France.&text=RTE%20is%20a%20wholly%20owned,EDF)%2C%20headquartered%20in%20Paris.)というフランスの送電線網における、送電線の修理・点検を行うためのスケジュールを構築するという問題です。
+[RTE](https://en.wikipedia.org/wiki/R%C3%A9seau_de_Transport_d%27%C3%89lectricit%C3%A9#:~:text=R%C3%A9seau%20de%20Transport%20d'%C3%89lectricit%C3%A9%20(Electricity%20Transmission%20Network)%2C,transmission%20system%20operator%20of%20France.&text=RTE%20is%20a%20wholly%20owned,EDF\)%2C%20headquartered%20in%20Paris.)というフランスの送電線網における、送電線の修理・点検を行うためのスケジュールを構築するという問題です。
 
 具体的には、与えられたいくつかの送電線の修理・点検の仕事に対して、その開始時刻をコストや安全性を評価軸に決定していきます。修理・点検は送電線そのものではなく、それらが集まった**グリッド**と呼ばれる場所を行うそうです。
 

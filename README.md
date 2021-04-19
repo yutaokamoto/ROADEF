@@ -29,4 +29,4 @@ pdfファイルに実装したアルゴリズムの概要をまとめてあり�
         1. 全ての制約条件を満たすようなスケジュールを構築する。
         2. 1.のスケジュールを改善する。
 
-* アルゴリズムの詳細につきましては、[こちらのpdfファイル](https://github.com/yutaokamoto/ROADEF/blob/main/ROADEF%20Challenge%202020%20Abstract.pdf)にまとめてあります。(これだけ別の場所にバックアップをとっていたので無事でした。)
+* アルゴリズムの詳細につきましては、[こちらのpdfファイル](https://github.com/yutaokamoto/ROADEF/blob/main/ROADEF_Challenge_2020_J38_Abstract.pdf)にまとめてあります。(これだけ別の場所にバックアップをとっていたので無事でした。)
